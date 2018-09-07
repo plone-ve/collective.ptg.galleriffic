@@ -1,8 +1,8 @@
 # Manually defined message ids
 msgid ""
 msgstr ""
-"Project-Id-Version: Truegallery VERSION\n"
-"POT-Creation-Date: 2012-07-10 13:13+0000\n"
+"Project-Id-Version: collective.ptg.galleriffic VERSION\n"
+"POT-Creation-Date: 2018-08-18 03:29+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI +ZONE\n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -13,10 +13,9 @@ msgstr ""
 "Language-Code: en\n"
 "Language-Name: English\n"
 "Preferred-Encodings: utf-8 latin1\n"
-"Domain: collective.plonetruegallery\n"
+"Domain: collective.ptg.galleriffic\n"
 
 #. Default: "Galleriffic"
 #: ./__init__.py:18
 msgid "label_galleriffic_display_type"
 msgstr ""
-
