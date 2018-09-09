@@ -3,7 +3,7 @@
 # Rafahela Bazzanella <rafahela@gmail>, 2011.
 msgid ""
 msgstr ""
-"Project-Id-Version: collective.plonetruegallery\n"
+"Project-Id-Version: collective.ptg.galleriffic\n"
 "POT-Creation-Date: 2012-07-10 13:13+0000\n"
 "PO-Revision-Date: 2011-07-01 11:53-0300\n"
 "Last-Translator: Rafahela Bazzanella <rafahela@gmail.com>\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Language-Code: pt-br\n"
 "Language-Name: Brazilian Portuguese\n"
 "Preferred-Encodings: utf-8 latin1\n"
-"Domain: collective.plonetruegallery\n"
+"Domain: collective.ptg.galleriffic\n"
 
 #. Default: "Galleriffic"
 #: ./__init__.py:18
